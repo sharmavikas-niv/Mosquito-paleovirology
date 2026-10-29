@@ -1,0 +1,11 @@
+"Organism.Name","Category","Count","Total","Percentage"
+"Aedes_aegypti_KOR","LTR_retrotransposon",4751,5717,83.1030260626203
+"Aedes_aegypti_KOR","Viral_reference",574,5717,10.0402308903271
+"Aedes_aegypti_KOR","Other_TE",277,5717,4.84519853069792
+"Aedes_aegypti_KOR","DNA_or_other_transposon",68,5717,1.18943501836628
+"Aedes_aegypti_KOR","No_significant_hit",47,5717,0.822109497988455
+"Aedes_aegypti_KPA","LTR_retrotransposon",4719,5657,83.4187732013435
+"Aedes_aegypti_KPA","Viral_reference",569,5657,10.0583348064345
+"Aedes_aegypti_KPA","Other_TE",257,5657,4.54304401626304
+"Aedes_aegypti_KPA","DNA_or_other_transposon",64,5657,1.13134170054799
+"Aedes_aegypti_KPA","No_significant_hit",48,5657,0.848506275410995
